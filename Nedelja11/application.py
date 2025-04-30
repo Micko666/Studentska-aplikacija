@@ -11,7 +11,7 @@ class StudentGradeApp(ctk.CTk):
 
         self.title("Student Grade Management System")  
         self.geometry("1400x900")  
-        self.configure(fg_color="#2c3e50") 
+        self.configure(fg_color="#2c3e51") 
 
         self.name = ctk.StringVar()  
         self.index_number = ctk.StringVar()  
